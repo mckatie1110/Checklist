@@ -1,0 +1,36 @@
+$accent-color: #C9043C;
+$section-bkgrd: #EEEED9;
+$font-stack: Cambria, Helvetica, Arial, sans-serif;
+
+body {
+    font: 100% $font-stack;
+    color: black;
+}
+
+h1 {
+    font-family: "reklame-script",sans-serif;
+    color: black;
+}
+
+h2, h3 {
+    font: 100% $font-stack;
+    color: $accent-color;
+}
+
+div {
+    background-color: $section-bkgrd;
+    padding: 20px;
+    border: 4px solid gray;
+}
+
+header {
+    background-color: $accent-color;
+    padding: 50px;
+}
+
+img {
+    float: right;
+    position: relative;
+    bottom: 110px;
+    max-height: 250px;
+}
