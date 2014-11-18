@@ -6,7 +6,11 @@ h1 {
   font-family: "reklame-script",sans-serif;
   color: black; }
 
+<<<<<<< HEAD
 h2, h3 {
+=======
+h2 {
+>>>>>>> d198fd60bfc5246bad4ad0ea0a0489a1c2adc114
   font: 100% Cambria, Helvetica, Arial, sans-serif;
   color: #C9043C; }
 

@@ -2,6 +2,7 @@ $accent-color: #C9043C;
 $section-bkgrd: #EEEED9;
 $font-stack: Cambria, Helvetica, Arial, sans-serif;
 
+<<<<<<< HEAD
 body {
     font: 100% $font-stack;
     color: black;
@@ -34,3 +35,40 @@ img {
     bottom: 110px;
     max-height: 250px;
 }
+=======
+body{
+  font: 100% $font-stack;
+  color: black;
+}
+
+h1{
+  font-family: "reklame-script",sans-serif;
+  color: black;
+}
+
+h2{
+  font: 100% $font-stack;
+  color:$accent-color;
+}
+
+div{
+  background-color: $section-bkgrd;
+  padding:20px;
+  border: 4px solid gray;
+}
+
+header{
+  background-color:$accent-color;
+  padding:50px;
+}
+
+img{
+  float:right;
+  position:relative;
+  bottom:110px;
+  max-height:250px;
+}
+
+
+
+>>>>>>> d198fd60bfc5246bad4ad0ea0a0489a1c2adc114
