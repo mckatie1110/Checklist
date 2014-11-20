@@ -2,7 +2,6 @@ $accent-color: #C9043C;
 $section-bkgrd: #EEEED9;
 $font-stack: Cambria, Helvetica, Arial, sans-serif;
 
-<<<<<<< HEAD
 body {
     font: 100% $font-stack;
     color: black;
@@ -13,7 +12,7 @@ h1 {
     color: black;
 }
 
-h2, h3 {
+h2 {
     font: 100% $font-stack;
     color: $accent-color;
 }
@@ -35,7 +34,7 @@ img {
     bottom: 110px;
     max-height: 250px;
 }
-=======
+
 body{
   font: 100% $font-stack;
   color: black;
@@ -69,6 +68,3 @@ img{
   max-height:250px;
 }
 
-
-
->>>>>>> d198fd60bfc5246bad4ad0ea0a0489a1c2adc114
