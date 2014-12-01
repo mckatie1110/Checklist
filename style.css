@@ -52,4 +52,7 @@ img {
   bottom: 110px;
   max-height: 250px; }
 
+@fixed {
+  position: fixed; }
+
 /*# sourceMappingURL=style.css.map */

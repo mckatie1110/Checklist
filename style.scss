@@ -2,6 +2,8 @@ $accent-color: #C9043C;
 $section-bkgrd: #EEEED9;
 $font-stack: Cambria, Helvetica, Arial, sans-serif;
 
+
+
 body {
     font: 100% $font-stack;
     color: black;
@@ -67,4 +69,9 @@ img{
   bottom:110px;
   max-height:250px;
 }
+
+@fixed{
+  position:fixed;
+}
+
 
